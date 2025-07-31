@@ -5,7 +5,7 @@ A machine learning-powered web app that predicts the number of calories burned d
 
 ## 🌐 Live Demo
 
-👉 **[Visit the App]([https://your-render-app-url.onrender.com](https://calorie-predictor-app-0qab.onrender.com/))**
+👉 **[Visit the App](https://your-render-app-url.onrender.com](https://calorie-predictor-app-0qab.onrender.com/)**
 
 ## 📊 Tech Stack
 
