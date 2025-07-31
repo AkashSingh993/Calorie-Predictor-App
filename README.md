@@ -3,6 +3,9 @@
 
 A machine learning-powered web app that predicts the number of calories burned during a workout session. Built using **Flask**, **XGBoost**, and **Docker**, and deployed seamlessly on **Render**.
 
+## Dataset
+The dataset is from a Kaggle competition.[Click Here](https://www.kaggle.com/competitions/playground-series-s5e5)
+
 ## 🌐 Live Demo
 
 👉 [Visit the App](https://calorie-predictor-app-0qab.onrender.com/)
